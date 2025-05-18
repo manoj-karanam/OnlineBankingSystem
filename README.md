@@ -5,9 +5,7 @@ An end-to-end online banking system built using Spring Boot, Thymeleaf, and MySQ
 ## 🚀 Technologies Used
 
 - **Backend:** Java, Spring Boot  
-- **Frontend:** Thymeleaf  
 - **Database:** MySQL  
-- **Deployment:** Docker, Render (Backend), AWS RDS (Database)  
 - **Development:** IntelliJ IDEA  
 - **Version Control:** Git, GitHub  
 
