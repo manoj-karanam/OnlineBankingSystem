@@ -1,5 +1,3 @@
-# OnlineBankingSystem
-
 # 💳 Online Banking System
 
 An end-to-end online banking system built using Spring Boot, Thymeleaf, and MySQL. The application supports multiple user roles — **Customer**, **Accountant**, **Manager**, and **Admin** — with functionalities for account management, transactions, and secure access control.
